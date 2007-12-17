@@ -12,7 +12,6 @@ Patch0: drqueue-Makefile.patch
 License: GPL 
 Group: System/Cluster
 Url: http://www.drqueue.org/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildrequires: pkgconfig gtk2-devel
 
 %description
