@@ -1,6 +1,6 @@
 %define name drqueue
 %define version 0.64.1
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: Render farm managing software
 Name: %{name}
