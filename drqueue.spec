@@ -2,7 +2,7 @@
 %define version 0.64.1
 %define release %mkrel 2
 
-Summary: Open Source render farm managing software
+Summary: Render farm managing software
 Name: %{name}
 Version: %{version}
 Release: %{release}
