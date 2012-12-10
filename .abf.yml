@@ -1,6 +1,2 @@
 sources:
-  "drqman.conf:"	ddd3bd48c35031eeac153c8b0b7fe95067991b16
-  "drqueue.0.64.4c1.tgz:"	ea291aaf79597088633c2367b9eb8d063fd13d14
-  "drqueue.profile:"	0a05be76e2ed7abe6079196d8034e7db5d1cef25
-  "master.conf:"	8096010086a0daf3abbf83db6bf9522178e2904c
-  "slave.conf:"	46e72f920f58bf3a500e54575d347fefe87a8954
+  "drqueue.0.64.4c1.tgz": ea291aaf79597088633c2367b9eb8d063fd13d14
